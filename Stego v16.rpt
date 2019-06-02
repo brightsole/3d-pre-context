@@ -1,0 +1,66 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : Stego v16
+Receiving System Product I.D.: 
+File Name                    : Stego v16
+Sending System               : unknown
+Preprocessor Version         : unknown
+File Creation Date           : 20180331.214745
+Model Creation Date          : 20180331.104721
+Units                        : MM
+Model Space Scale            : 1
+Author                       : maelstroswim
+Organization                 : unknown
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:              14
+  Highest number of significant digits:                     14
+  Average number of significant digits:                11.9262
+  Maximum distance to origin:                          75.9455
+  Minimum distance to origin:                         0.730008
+  Effective number of significant digits:              13.9917
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+126  Rational B-spline curve                       1433      1433
+128  Rational B-spline surface                      536       536
+186  Manifold Solid B-rep Object                     13        13
+314  Color definition                                 1         1
+406  Property                                        13        13
+502  Vertex list                                     13        13
+504  Edge entity                                     13        13
+508  Loop entity                                    611       611
+510  Face entity                                    536       536
+514  Shell entity                                    13        13
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       13
+Surface feature(s)                     0
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Saturday, March 31, 2018 22:14:29
+Finish time: Saturday, March 31, 2018 22:14:38
+Processing time: 0 days, 00 hours, 00 mins, 09 secs

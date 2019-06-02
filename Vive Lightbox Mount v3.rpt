@@ -1,0 +1,66 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : Vive Lightbox Mount v3
+Receiving System Product I.D.: 
+File Name                    : Vive Lightbox Mount v3
+Sending System               : unknown
+Preprocessor Version         : unknown
+File Creation Date           : 20180403.085355
+Model Creation Date          : 20180402.225312
+Units                        : MM
+Model Space Scale            : 1
+Author                       : maelstroswim
+Organization                 : unknown
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:              14
+  Highest number of significant digits:                     14
+  Average number of significant digits:                8.61011
+  Maximum distance to origin:                            77.39
+  Minimum distance to origin:                            29.65
+  Effective number of significant digits:              13.6493
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+126  Rational B-spline curve                        101       101
+128  Rational B-spline surface                       39        39
+186  Manifold Solid B-rep Object                      1         1
+314  Color definition                                 1         1
+406  Property                                         1         1
+502  Vertex list                                      1         1
+504  Edge entity                                      1         1
+508  Loop entity                                     43        43
+510  Face entity                                     39        39
+514  Shell entity                                     1         1
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       1
+Surface feature(s)                     0
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Tuesday, April 03, 2018 08:55:09
+Finish time: Tuesday, April 03, 2018 08:55:11
+Processing time: 0 days, 00 hours, 00 mins, 02 secs
